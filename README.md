@@ -6,8 +6,6 @@
 
 #### Table 1. 368 pairs of landmarks for calculating distances
 
-<center>
-
 | # | Pair | # | Pair | # | Pair | # | Pair | # | Pair |
 | - | ---- | - | ---- | - | ---- | - | ---- | - | ---- |  
 | 1 | 0, 16 | 75 | 10, 48 | 149 | 21, 54 | 223 | 33, 62 | 297 | 48, 64 |
@@ -85,11 +83,7 @@
 | 73 | 10, 27 | 147 | 21, 46 | 221 | 33, 35 | 295 | 48, 62 |  | |
 | 74 | 10, 43 | 148 | 21, 48 | 222 | 33, 61 | 296 | 48, 63 |  | |
 
-</center>
-
 #### Table 2. 259 pairs of landmarks for calculating distances
-
-<center>
 
 | # | Pair | # | Pair | # | Pair | # | Pair | # | Pair |
 | - | ---- | - | ---- | - | ---- | - | ---- | - | ---- | 
@@ -146,11 +140,7 @@
 | 51 | 10, 60 | 103 | 22, 46 | 155 | 37, 48 | 207 | 48, 65 | 259 | 64, 67 |
 | 52 | 14, 54 | 104 | 22, 54 | 156 | 37, 64 | 208 | 48, 66 |  |  |
 
-</center>
-
 #### Table 3. 104 pairs of landmarks for calculating distances
-
-<center>
 
 | # | Pair | # | Pair | # | Pair | # | Pair | # | Pair |
 | - | ---- | - | ---- | - | ---- | - | ---- | - | ---- | 
@@ -175,8 +165,6 @@
 | 19| 9, 23| 40| 22, 30| 61| 38, 43| 82| 53, 60| 103| 64, 66 |
 | 21| 9, 24| 41| 22, 42| 62| 40, 48| 83| 54, 55| 104| 64, 67 |
 | 22| 9, 25| 42| 22, 54| 63| 41, 48| 84| 54, 56| |  |
-
-</center>
 
 > Landmark incidence in 368, 259 and 104 features are shown in Figures 1, 2 and 3, respectively. As one can see from the figures 1, 2 and 3, most important landmarks are 48, 54, 60, 64, which are the corners of the mouth, 7, 8 and 9 are landmarks the angle of the chin, from 19 to 23 are landmarks the eyebrows.
 
