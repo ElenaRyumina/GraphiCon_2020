@@ -1,6 +1,6 @@
-### Текст
+### The annex to article "Facial Expression Recognition using New Feature Extraction Method"
 
-> We extracted `2278` Euclidean distances from `120` thousand observations obtained as a result of frame-by-frame extraction of face landmarks from the `RAVDESS` and `CREMA-D` video databases. We used distances as input to the ensemble classifiers Random Forest Classifier (RFC), Extra Trees Classifier (ETC) and Ada-Boost Classi-fier (ABC) to feature importance scores. As a result of averaging the obtained scores and setting the threshold for evaluations of 0.009, 0.001 and 0.002, we received 368, 259 and 104 pairs of landmarks that are presented in Tables 1, 2 and 3, respectively.
+> We extracted `2278` Euclidean distances from `120` thousand observations obtained as a result of frame-by-frame extraction of face landmarks from the `RAVDESS` and `CREMA-D` video databases. We used distances as input to the ensemble classifiers Random Forest Classifier (RFC), Extra Trees Classifier (ETC) and Ada-Boost Classi-fier (ABC) to feature importance scores. As a result of averaging the obtained scores and setting the threshold for evaluations of `0.009`, `0.001` and `0.002`, we received `368`, `259` and `104` pairs of landmarks that are presented in Tables 1, 2 and 3, respectively.
 
 ---
 
@@ -166,7 +166,7 @@
 | 21| 9, 24| 41| 22, 42| 62| 40, 48| 83| 54, 55| 104| 64, 67 |
 | 22| 9, 25| 42| 22, 54| 63| 41, 48| 84| 54, 56| |  |
 
-> Landmark incidence in 368, 259 and 104 features are shown in Figures 1, 2 and 3, respectively. As one can see from the figures 1, 2 and 3, most important landmarks are 48, 54, 60, 64, which are the corners of the mouth, 7, 8 and 9 are landmarks the angle of the chin, from 19 to 23 are landmarks the eyebrows.
+> Landmark incidence in `368`, `259` and `104` features are shown in Figures 1, 2 and 3, respectively. As one can see from the figures 1, 2 and 3, most important landmarks are `48`, `54`, `60`, `64`, which are the corners of the mouth, `7`, `8` and `9` are landmarks the angle of the chin, from `19` to `23` are landmarks the eyebrows.
 
 ---
 
