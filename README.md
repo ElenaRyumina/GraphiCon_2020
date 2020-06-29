@@ -1,4 +1,4 @@
-### The annex to article "Facial Expression Recognition using New Feature Extraction Method"
+### The annex to article "Facial Expression Recognition using Distance Importance Scores Between of Facial Landmarks"
 
 > We extracted `2278` Euclidean distances from `120` thousand observations obtained as a result of frame-by-frame extraction of face landmarks from the `RAVDESS` and `CREMA-D` video databases. We used distances as input to the ensemble classifiers Random Forest Classifier (RFC), Extra Trees Classifier (ETC) and Ada-Boost Classi-fier (ABC) to feature importance scores. As a result of averaging the obtained scores and setting the threshold for evaluations of `0.009`, `0.001` and `0.002`, we received `368`, `259` and `104` pairs of landmarks that are presented in Tables 1, 2 and 3, respectively.
 
